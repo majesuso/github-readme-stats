@@ -355,6 +355,12 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+  lilacDark: {
+    title_color: "9C83E9",
+    icon_color: "FFD5BC",
+    text_color: "EBB6F0",
+    bg_color: "121316",
+  },
   "rose_pine":{
     title_color: "9ccfd8",
     icon_color: "ebbcba",
